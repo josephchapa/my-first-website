@@ -6,7 +6,7 @@ body {
 }
 
 .nav-bar {
-    height: 200px;
+    height: 80px;
     width: 100%;
     background-color: #c29d6b; /*MC Visor*/
     position: fixed;

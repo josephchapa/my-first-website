@@ -1,0 +1,18 @@
+.body {
+    margin: 0 auto;
+    width: 100%;
+    
+}
+
+.contact-info {
+    margin-top: 90px;
+}
+
+.row {
+    width: 100%;
+}
+
+.map, .form {
+    padding: 15px;
+}
+

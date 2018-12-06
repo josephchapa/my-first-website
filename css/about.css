@@ -1,0 +1,24 @@
+.main {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.col {
+    height: 700px;
+    width: 32%;
+    border: 3px solid orange;
+    float: left;
+    margin-top: 80px;
+    margin-left: 8px;
+}
+
+.image {
+    height 500px;
+    width: 395px;
+    margin-top: 20px;
+}
+
+.audio {
+    text-align: center;
+    padding: 10px;
+}
